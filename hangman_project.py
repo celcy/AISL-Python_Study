@@ -33,7 +33,6 @@ word_answer = word_choice()
 word_board = '_ ' * len(word_answer)
 
 # 시작 문자열 출력
-print("ANSWER: ", word_answer)
 print(word_board)
 
 while 1:
